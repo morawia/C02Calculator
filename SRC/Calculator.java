@@ -16,7 +16,5 @@ public class Calculator {
         int number = 1;
         System.out.println(number);
 
-        int number2 = 2;
-        System.out.println(number2 + number);
     }
 }
